@@ -1,7 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
 # TO-DO-LIST
 _________________________
 ## About The Project
@@ -29,5 +25,5 @@ Bug reports and/or pull requests are welcome
 
 ## License
 The application is created for educational purposes. 
-Copyright belongs to the school Canshecode
+Copyright belongs to the school Canshecode :blush:
 linc https://edu-canshecode.thinkific.com/
